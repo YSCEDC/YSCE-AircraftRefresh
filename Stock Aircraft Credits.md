@@ -1,0 +1,28 @@
+# YSCE Stock Aircraft Credits
+
+This file will contain the credits for all of the YSCE Stock Aircraft other in-game assets and track all of the creators. For models that were made 
+
+
+##  Aircraft
+Model | YSCE Mod Contributors | Original Model | License |
+| - | - | - | - |
+F-22 | Decaff42 | Soji | MIT License |
+Concorde | Decaff42 | Soji | MID License |
+Su-27 | Decaff42 | HPQGAC | Credit original Pack | 
+F-4 | Reaper | HQPGAC | Credit Original Pack<br> Cockpit by Reaper | 
+
+
+## Weapons
+
+TBD
+
+
+## Maps
+
+TBD
+
+
+
+
+
+

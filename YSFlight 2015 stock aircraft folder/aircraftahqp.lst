@@ -1,0 +1,90 @@
+user/HQPGAC/av8b.dat user/HQPGAC/av8b.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/av8b_coar.dnm
+user/HQPGAC/harrier_gr7a.dat user/HQPGAC/harrier_gr7a.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/harrier_gr7a_coar.dnm
+user/HQPGAC/harrier_gr7b.dat user/HQPGAC/harrier_gr7b.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/harrier_gr7b_coar.dnm
+user/HQPGAC/harrier_gr7c.dat user/HQPGAC/harrier_gr7c.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/harrier_gr7c_coar.dnm
+user/HQPGAC/harrier_1.dat user/HQPGAC/harrier_1.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/av8b_coar.dnm
+user/HQPGAC/harrier_4.dat user/HQPGAC/harrier_4.dnm user/HQPGAC/harrier_coll.srf user/HQPGAC/harrier_cpt.dnm user/HQPGAC/av8b_coar.dnm
+
+user/HQPGAC/a6a.dat user/HQPGAC/a6a.dnm user/HQPGAC/a6cl.srf user/HQPGAC/a6acpt.srf user/HQPGAC/a6a_coar.dnm
+user/HQPGAC/ka6d.dat user/HQPGAC/ka6d.dnm user/HQPGAC/a6cl.srf user/HQPGAC/a6acpt.srf user/HQPGAC/a6a_coar.dnm
+user/HQPGAC/a6e.dat user/HQPGAC/a6e.dnm user/HQPGAC/a6cl.srf user/HQPGAC/a6ecpt.srf user/HQPGAC/a6e_coar.dnm
+
+user/HQPGAC/c130h.dat user/HQPGAC/c130h.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+user/HQPGAC/c130j.dat user/HQPGAC/c130j.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+user/HQPGAC/ac130a.dat user/HQPGAC/ac130a.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+user/HQPGAC/cc130e.dat user/HQPGAC/cc130e.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+user/HQPGAC/lc130j.dat user/HQPGAC/lc130j.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+user/HQPGAC/ec130j.dat user/HQPGAC/ec130j.dnm user/HQPGAC/c130cl.srf user/HQPGAC/c130cpt.srf
+
+user/HQPGAC/ea6b_vaq131.dat user/HQPGAC/ea6b_vaq131.dnm user/HQPGAC/ea6bcl.srf user/HQPGAC/ea6bcpt.srf
+user/HQPGAC/ea6b_vmaq2.dat user/HQPGAC/ea6b_vmaq2.dnm user/HQPGAC/ea6bcl.srf user/HQPGAC/ea6bcpt.srf
+
+user/HQPGAC/ef2000a.dat user/HQPGAC/ef2000a.dnm user/HQPGAC/ef2000a_coll.srf user/HQPGAC/ef2000a_cpt.dnm user/HQPGAC/ef2000a_coar.dnm
+user/HQPGAC/ef2000t.dat user/HQPGAC/ef2000t.dnm user/HQPGAC/ef2000a_coll.srf user/HQPGAC/ef2000a_cpt.dnm user/HQPGAC/ef2000t_coar.dnm
+
+user/HQPGAC/f4b_vf21.dat user/HQPGAC/f4b_vf21.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf user/HQPGAC/f4b_coar.dnm
+user/HQPGAC/f4b_vf142.dat user/HQPGAC/f4b_vf142.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf user/HQPGAC/f4b_coar.dnm
+user/HQPGAC/f4c_555tfs.dat user/HQPGAC/f4c_555tfs.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4d.dat user/HQPGAC/f4d.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4e.dat user/HQPGAC/f4e.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4e_57fis_300.dat user/HQPGAC/f4e_57fis_300.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4e_57fis_330.dat user/HQPGAC/f4e_57fis_330.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4e_57fis_382.dat user/HQPGAC/f4e_57fis_382.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4e_57fis_346.dat user/HQPGAC/f4e_57fis_346.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4ej.dat user/HQPGAC/f4ej.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4g.dat user/HQPGAC/f4g.dnm user/HQPGAC/f4ecl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4j_vf96.dat user/HQPGAC/f4j_vf96.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4j_vmfa333.dat user/HQPGAC/f4j_vmfa333.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4n_vmfa531.dat user/HQPGAC/f4n_vmfa531.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4s.dat user/HQPGAC/f4s.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4k_892.dat user/HQPGAC/f4k_892.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4m_23sq.dat user/HQPGAC/f4m_23sq.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4m_43sq.dat user/HQPGAC/f4m_43sq.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4m_111sq.dat user/HQPGAC/f4m_111sq.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+user/HQPGAC/f4m_1435flt.dat user/HQPGAC/f4m_1435flt.dnm user/HQPGAC/f4cl.srf user/HQPGAC/f4cpt.srf
+
+user/HQPGAC/f16a.dat user/HQPGAC/f16a.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+user/HQPGAC/f16b.dat user/HQPGAC/f16b.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+user/HQPGAC/f16c_30.dat user/HQPGAC/f16c_30.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+user/HQPGAC/f16c_32.dat user/HQPGAC/f16c_32.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+user/HQPGAC/f16d_30.dat user/HQPGAC/f16d_30.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+user/HQPGAC/f16d_32.dat user/HQPGAC/f16d_32.dnm user/HQPGAC/f16a_coll.srf user/HQPGAC/f16_cpt.dnm 
+
+user/HQPGAC/f18e.dat user/HQPGAC/f18e.dnm user/HQPGAC/f18f_coll.srf user/HQPGAC/f18f_cpt.dnm user/HQPGAC/f18e_coar.dnm
+user/HQPGAC/f18e_int.dat user/HQPGAC/f18e_int.dnm user/HQPGAC/f18f_coll.srf user/HQPGAC/f18f_cpt.dnm user/HQPGAC/f18e_int_coar.dnm 
+user/HQPGAC/f18f.dat user/HQPGAC/f18f.dnm user/HQPGAC/f18f_coll.srf user/HQPGAC/f18f_cpt.dnm user/HQPGAC/f18f_coar.dnm 
+user/HQPGAC/f18f_int.dat user/HQPGAC/f18f_int.dnm user/HQPGAC/f18f_coll.srf user/HQPGAC/f18f_cpt.dnm user/HQPGAC/f18f_int_coar.dnm 
+
+user/HQPGAC/f22.dat user/HQPGAC/f22.dnm user/HQPGAC/f22_coll.srf user/HQPGAC/f22_cpt.dnm user/HQPGAC/f22_coar.dnm 
+user/HQPGAC/f22_pyl.dat user/HQPGAC/f22_pyl.dnm user/HQPGAC/f22_coll.srf user/HQPGAC/f22_cpt.dnm user/HQPGAC/f22_coar.dnm 
+
+user/HQPGAC/f104a.dat user/HQPGAC/f104a.dnm user/HQPGAC/f104anotankcl.srf user/HQPGAC/f104cpt.srf
+user/HQPGAC/f104c.dat user/HQPGAC/f104c.dnm user/HQPGAC/f104acl.srf user/HQPGAC/f104cpt.srf
+user/HQPGAC/qf104.dat user/HQPGAC/qf104.dnm user/HQPGAC/f104acl.srf user/HQPGAC/f104cpt.srf
+user/HQPGAC/f104g.dat user/HQPGAC/f104g.dnm user/HQPGAC/f104gcl.srf user/HQPGAC/f104cpt.srf
+user/HQPGAC/f104s.dat user/HQPGAC/f104s.dnm user/HQPGAC/f104gcl.srf user/HQPGAC/f104cpt.srf
+user/HQPGAC/f104s_999final.dat user/HQPGAC/f104s_999final.dnm user/HQPGAC/f104gnotankcl.srf user/HQPGAC/f104cpt.srf
+
+user/HQPGAC/hu16.dat user/HQPGAC/hu16.dnm user/HQPGAC/hu16_coll.srf user/HQPGAC/hu16_cpt.srf
+
+user/HQPGAC/su27.dat user/HQPGAC/su27.dnm user/HQPGAC/su27_coll.srf user/HQPGAC/su27_cpt.dnm
+user/HQPGAC/su27ub.dat user/HQPGAC/su27ub.dnm user/HQPGAC/su27_coll.srf user/HQPGAC/su27_cpt.dnm
+user/HQPGAC/su30mk.dat user/HQPGAC/su30mk.dnm user/HQPGAC/su27_coll.srf user/HQPGAC/su27_cpt.dnm
+user/HQPGAC/su35s.dat user/HQPGAC/su35s.dnm user/HQPGAC/su27_coll.srf user/HQPGAC/su27_cpt.dnm
+
+user/HQPGAC/f86f.dat user/HQPGAC/f86f.dnm user/HQPGAC/f86cl.srf user/HQPGAC/f86cpt.srf
+user/HQPGAC/f86d.dat user/HQPGAC/f86d.dnm user/HQPGAC/f86d_coll.srf user/HQPGAC/f86d_cpt.srf
+
+user/HQPGAC/Tornado/Luftwaffe_ECR/tornado_ECR-luff.dat user/HQPGAC/Tornado/Luftwaffe_ECR/tornado_ECR-luff.dnm 
+user/HQPGAC/Tornado/Luftwaffe_ECR/tornado_ECR-navy.dat user/HQPGAC/Tornado/Luftwaffe_ECR/tornado_ECR-navy.dnm
+user/HQPGAC/Tornado/RAF_F3/tornado_f3.dat user/HQPGAC/Tornado/RAF_F3/tornado_f3.dnm
+user/HQPGAC/Tornado/RAF_GR1/tornado_GR1.dat user/HQPGAC/Tornado/RAF_GR1/tornado_GR1.dnm
+user/HQPGAC/Tornado/RAF_GR1/tornado_GR1_Gulf.dat user/HQPGAC/Tornado/RAF_GR1/tornado_GR1_Gulf.dnm
+user/HQPGAC/Tornado/RAF_GR4/tornado_gr4.dat user/HQPGAC/Tornado/RAF_GR4/tornado_gr4.dnm
+user/HQPGAC/Tornado/RAF_GR4/tornado_gr4_31.dat user/HQPGAC/Tornado/RAF_GR4/tornado_gr4_31.dnm
+user/HQPGAC/Tornado/RAF_GR4/tornado_gr4_617.dat user/HQPGAC/Tornado/RAF_GR4/tornado_gr4_617.dnm
+user/HQPGAC/Tornado/zak_tornados/tornado_IDS_tiger.dat user/HQPGAC/Tornado/zak_tornados/tornado_IDS_tiger.dnm
+
+user/HQPGAC/mig15.dat user/HQPGAC/mig15.dnm user/HQPGAC/mig15cl.srf user/HQPGAC/mig15cock.srf
+user/HQPGAC/mig21.dat user/HQPGAC/mig21.dnm user/HQPGAC/mig21cl.srf user/HQPGAC/mig21cpt
+user/HQPGAC/mig29.dat user/HQPGAC/mig29.dnm user/HQPGAC/mig29kcl.srf user/HQPGAC/mig29cpt.srf
