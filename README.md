@@ -15,6 +15,7 @@ All models and configurations must be seperated based on model and configuration
 The same course is to be used for configuration files.
 
 DNM and SRF files are to be treated as models.
-IST and DAT files are to be treated as models.
+
+IST and DAT files are to be treated as configuration files.
 
 DO NOT GENERATE AN LST. THIS WILL BE DONE WHEN PUSHING PACK(S) TO MASTER.
