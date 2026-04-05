@@ -1,1 +1,9 @@
 "users/YSCE/aircraft/PiperArcher/PiperArcher.dat" "users/YSCE/aircraft/PiperArcher/PiperArcher.dnm" "users/YSCE/aircraft/PiperArcher/PiperArcher_collision.srf" "users/YSCE/aircraft/PiperArcher/PiperArcher_cockpit.srf" "users/YSCE/aircraft/PiperArcher/PiperArcher_coarse.dnm"
+
+"users/YSCE/aircraft/P-51/p51.dat" "users/YSCE/aircraft/P-51/ysce_p-51.dnm" "users/YSCE/aircraft/P-51/p51coll.srf" "users/YSCE/aircraft/P-51/p51cockpit.srf" "users/YSCE/aircraft/P-51/P-51_coarse.dnm"
+
+"users/YSCE/aircraft/A6M5/a6m5.dat" "users/YSCE/aircraft/A6M5/ysce_a6m5.dnm" "users/YSCE/aircraft/A6M5/a6m5_coll.srf" "users/YSCE/aircraft/A6M5/a6m5_cockpit.srf" "users/YSCE/aircraft/A6M5/a6m5_coarse.dnm"
+
+"users/YSCE/aircraft/Cessna172/cessna172r.dat" "users/YSCE/aircraft/Cessna172/Cessna172r1.dnm" "users/YSCE/aircraft/Cessna172/Cessna172r_coll.srf" "users/YSCE/aircraft/Cessna172/Cessna172r_cockpit.srf" "users/YSCE/aircraft/Cessna172/Cessna172r1_coarse.dnm"
+
+"users/YSCE/aircraft/F-16/YSCE_F-16A.dat" "users/YSCE/aircraft/F-16/YSCE_F-16A.dnm""users/YSCE/aircraft/F-16/YSCE_F-16A_coll.srf" "" "users/YSCE/aircraft/F-16/YSCE_F-16A_coarse.dnm"
